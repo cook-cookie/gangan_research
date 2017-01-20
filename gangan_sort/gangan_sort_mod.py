@@ -1,6 +1,5 @@
 if __name__ == '__main__':
     filename = 'actor.txt'
-    actor = {}
     this_year = 2017
 
     with open(filename) as f:
