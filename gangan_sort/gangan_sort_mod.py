@@ -1,6 +1,6 @@
 if __name__ == '__main__':
     filename = 'actor.txt'
-    this_year = 2017
+    this_year = 2016
 
     with open(filename) as f:
         actors_list = []
